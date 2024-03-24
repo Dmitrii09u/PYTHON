@@ -9,7 +9,7 @@ meme_dict {
       word = input("Enter word: ")
 
       if input in meme.dict.keys()
-      print(meme_dict[word]
+      print(meme_dict[word])
       else:
       print("Sorry, the word doesn't exists :[")
       
